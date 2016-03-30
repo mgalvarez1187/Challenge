@@ -1,0 +1,14 @@
+C:\Users\minor.alvarez\Documents\Visual Studio 2015\Projects\slnChallenge\slnChallenge\ChallengeLogic\bin\Debug\ChallengeLogic.dll
+C:\Users\minor.alvarez\Documents\Visual Studio 2015\Projects\slnChallenge\slnChallenge\ChallengeLogic\bin\Debug\ChallengeLogic.pdb
+C:\Users\minor.alvarez\Documents\Visual Studio 2015\Projects\slnChallenge\slnChallenge\ChallengeLogic\bin\Debug\Contracts.dll
+C:\Users\minor.alvarez\Documents\Visual Studio 2015\Projects\slnChallenge\slnChallenge\ChallengeLogic\bin\Debug\Contracts.pdb
+C:\Users\minor.alvarez\Documents\Visual Studio 2015\Projects\slnChallenge\slnChallenge\ChallengeLogic\obj\Debug\ChallengeLogic.csprojResolveAssemblyReference.cache
+C:\Users\minor.alvarez\Documents\Visual Studio 2015\Projects\slnChallenge\slnChallenge\ChallengeLogic\obj\Debug\ChallengeLogic.dll
+C:\Users\minor.alvarez\Documents\Visual Studio 2015\Projects\slnChallenge\slnChallenge\ChallengeLogic\obj\Debug\ChallengeLogic.pdb
+C:\Users\ME\Documents\Visual Studio 2015\slnChallenge\slnChallenge\ChallengeLogic\bin\Debug\ChallengeLogic.dll
+C:\Users\ME\Documents\Visual Studio 2015\slnChallenge\slnChallenge\ChallengeLogic\bin\Debug\ChallengeLogic.pdb
+C:\Users\ME\Documents\Visual Studio 2015\slnChallenge\slnChallenge\ChallengeLogic\bin\Debug\Contracts.dll
+C:\Users\ME\Documents\Visual Studio 2015\slnChallenge\slnChallenge\ChallengeLogic\bin\Debug\Contracts.pdb
+C:\Users\ME\Documents\Visual Studio 2015\slnChallenge\slnChallenge\ChallengeLogic\obj\Debug\ChallengeLogic.csprojResolveAssemblyReference.cache
+C:\Users\ME\Documents\Visual Studio 2015\slnChallenge\slnChallenge\ChallengeLogic\obj\Debug\ChallengeLogic.dll
+C:\Users\ME\Documents\Visual Studio 2015\slnChallenge\slnChallenge\ChallengeLogic\obj\Debug\ChallengeLogic.pdb

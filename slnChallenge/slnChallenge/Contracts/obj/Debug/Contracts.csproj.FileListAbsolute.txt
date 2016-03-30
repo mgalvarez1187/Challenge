@@ -1,0 +1,10 @@
+C:\Users\minor.alvarez\Documents\Visual Studio 2015\Projects\slnChallenge\slnChallenge\Contracts\bin\Debug\Contracts.dll
+C:\Users\minor.alvarez\Documents\Visual Studio 2015\Projects\slnChallenge\slnChallenge\Contracts\bin\Debug\Contracts.pdb
+C:\Users\minor.alvarez\Documents\Visual Studio 2015\Projects\slnChallenge\slnChallenge\Contracts\obj\Debug\Contracts.dll
+C:\Users\minor.alvarez\Documents\Visual Studio 2015\Projects\slnChallenge\slnChallenge\Contracts\obj\Debug\Contracts.pdb
+C:\Users\minor.alvarez\Documents\Visual Studio 2015\Projects\slnChallenge\slnChallenge\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Users\ME\Documents\Visual Studio 2015\slnChallenge\slnChallenge\Contracts\bin\Debug\Contracts.dll
+C:\Users\ME\Documents\Visual Studio 2015\slnChallenge\slnChallenge\Contracts\bin\Debug\Contracts.pdb
+C:\Users\ME\Documents\Visual Studio 2015\slnChallenge\slnChallenge\Contracts\obj\Debug\Contracts.csprojResolveAssemblyReference.cache
+C:\Users\ME\Documents\Visual Studio 2015\slnChallenge\slnChallenge\Contracts\obj\Debug\Contracts.dll
+C:\Users\ME\Documents\Visual Studio 2015\slnChallenge\slnChallenge\Contracts\obj\Debug\Contracts.pdb
