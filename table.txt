@@ -1,0 +1,5 @@
+CREATE TABLE [dbo].[Scores] (
+    [UserName] VARCHAR (50) NOT NULL,
+    [Score]    INT          NOT NULL,
+    PRIMARY KEY CLUSTERED ([UserName] ASC)
+);
